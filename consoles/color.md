@@ -90,6 +90,7 @@ The most effective method to clean the power switch is to disassemble the switch
 * **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
 	* [CGS Replacement](https://www.aliexpress.com/item/1005001633557135.html)
 	* [Helder's Replacement](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)
+
 #### Burnt Fuses
 * There are two fuses F1 and F2 on the system of the same value. F1 is the main system fuse, F2 is a protection fuse from the DC jack. Please refer to the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**. 
 #### Corroded DC Jack
